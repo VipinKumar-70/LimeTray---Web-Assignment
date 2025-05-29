@@ -1,10 +1,10 @@
-# 🍽️ LimeTray - Restaurant Webpage (Assignment)
+# LimeTray - Web Assignment
 
 A modern and responsive restaurant website developed as part of a web development assignment. This project showcases a fully designed restaurant landing page with an emphasis on UI/UX, responsiveness, and clean code structure.
 
 ## 🚀 Live Demo
 
-🔗 [View Website](https://your-deployment-link.com)
+🔗 [View Website](https://lime-tray-web-assignment.vercel.app/)
 
 ## 📸 Screenshots
 
