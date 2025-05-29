@@ -99,9 +99,13 @@ LimeTray---Web-Assignment/
 
    Simply open the index.html file in your web browser to view the project locally.
 
+---
+
 ## 📸 Screenshots
 
-> Add screenshots here using:
+![HomePage](https://github.com/user-attachments/assets/57579165-da64-47a1-a77e-7bef649f8485)
+
+---
 
 ## Contributing
 
