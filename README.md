@@ -10,10 +10,10 @@ A modern and responsive restaurant website developed as part of a web developmen
 
 ## 📑 Index
 
+- [Assignment Objective](#-assignment-objective)
 - [Technologies Used](#-technologies-used)
 - [Features](#-features)
 - [Project Structure](#-project-structure)
-- [Assignment Objective](#-assignment-objective)
 - [Learnings](#-learnings)
 - [Future Improvements](#-future-improvements)
 - [Installation Instructions](#-installation-instructions)
@@ -21,6 +21,12 @@ A modern and responsive restaurant website developed as part of a web developmen
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Contact](#-contact)
+
+---
+
+## 📌 Assignment Objective
+
+This project was created for the **LimeTray Web Development Assignment** to demonstrate frontend development skills, responsive layout techniques, and clean, maintainable code.
 
 ---
 
@@ -40,8 +46,6 @@ A modern and responsive restaurant website developed as part of a web developmen
 - 📱 Fully responsive for mobile, tablet, and desktop.
 - 📷 High-quality imagery and modern layout.
 - 📋 Navigation bar with smooth scrolling.
-- 📍 Google Maps integration (optional).
-- 📞 Contact form and detailed footer section.
 
 ---
 
@@ -55,12 +59,6 @@ LimeTray---Web-Assignment/
 ├── script.js # JavaScript for interactivity
 └── README.md # Project documentation
 ```
-
----
-
-## 📌 Assignment Objective
-
-This project was created for the **LimeTray Web Development Assignment** to demonstrate frontend development skills, responsive layout techniques, and clean, maintainable code.
 
 ---
 

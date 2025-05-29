@@ -1,4 +1,3 @@
-/* Reset & Basic Styling */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -36,7 +35,6 @@ header {
     width: 140px;
 }
 
-/* Nav Links */
 .nav-links {
     list-style: none;
     display: flex;
@@ -71,8 +69,6 @@ header {
 
 }
 
-
-/* Hamburger Menu */
 .hamburger {
     display: none;
     cursor: pointer;
@@ -97,7 +93,6 @@ header {
     height: 100%;
 }
 
-/* Slide Styling */
 .slide {
     position: absolute;
     top: 0;
@@ -116,7 +111,6 @@ header {
     pointer-events: auto;
 }
 
-
 .slide {
     object-fit: cover;
     display: block;
@@ -130,7 +124,6 @@ header {
     display: block;
 }
 
-/* Slider Buttons */
 .prev,
 .next {
     cursor: pointer;
@@ -162,8 +155,6 @@ header {
     right: 15px;
 }
 
-
-/* About Section */
 .about {
     width: 100%;
     background: white;
@@ -208,7 +199,6 @@ header {
     height: auto;
 }
 
-/* Featured Menu Section */
 .menu {
     width: 100%;
     background: white;
@@ -251,7 +241,6 @@ header {
     transition: box-shadow 0.3s ease, transform 0.5s ease;
 }
 
-
 .menu-items img {
     width: 100%;
     object-fit: cover;
@@ -271,7 +260,6 @@ header {
     font-size: 1rem;
 }
 
-/* Footer */
 .footer {
     background-color: #fff;
     padding: 40px 20px;
@@ -320,11 +308,16 @@ header {
 
 .footer-icon i {
     font-size: 26px;
-    color: #e76f51;
+    color: #555;
     margin: 5px 3px;
+    transition: all 0.3s ease;
 }
 
-/* Responsive */
+.footer-icon i:hover {
+    color: #e76f51;
+}
+
+/* Responsive Style*/
 @media (max-width: 768px) {
     .footer-container {
         align-items: center;
@@ -336,8 +329,6 @@ header {
     }
 }
 
-
-/* Responsive Styles */
 @media (max-width: 992px) {
     .about-container {
         flex-direction: column;

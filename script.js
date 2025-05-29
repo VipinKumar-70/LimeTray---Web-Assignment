@@ -47,7 +47,7 @@ $(document).ready(function () {
   });
 
   function startAutoplay() {
-    slideInterval = setInterval(nextSlide, 2500); // change every 2.5s
+    slideInterval = setInterval(nextSlide, 2500);
   }
 
   function resetAutoplay() {
