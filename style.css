@@ -373,3 +373,10 @@ header {
     }
 
 }
+
+@media (min-width:1550px) {
+    .slider {
+        width: 1250px;
+        margin: 0 auto;
+    }
+}
